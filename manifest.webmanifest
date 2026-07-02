@@ -1,0 +1,12 @@
+{
+  "name": "GOLD PICK",
+  "short_name": "GOLD PICK",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fbfbfc",
+  "theme_color": "#171719",
+  "description": "금거래소 추천, 예상 견적, 매장 예약과 골드바 구매 프로토타입",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
